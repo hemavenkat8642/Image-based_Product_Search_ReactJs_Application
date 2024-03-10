@@ -63,6 +63,18 @@ A live demo of the application can be found [here](https://drive.google.com/file
 - Responsive and modern UI/UX design.
 - Error handling for failed image uploads and API errors.
 
+### Error Handling
+
+The application includes error handling for the following scenarios:
+
+1. If the file is not selected or if the selected file type is not an image.
+2. If the image exceeds its size limit of 32MB (Google Cloud Vision API accepts images only up to 32MB).
+3. If an error occurs while fetching or receiving a response from the Google Cloud Vision API.
+4. If an error occurs while fetching or receiving a response from the Real-time Product Search API.
+
+If a user encounters any errors continuously more than twice, they will see the following message:
+"Encountering recurring errors? Please contact Nagateja for prompt assistance and solutions."
+
 
 ## Technologies Used
 
