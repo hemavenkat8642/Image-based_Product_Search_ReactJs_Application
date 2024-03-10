@@ -60,7 +60,7 @@ A live demo of the application can be found [here](https://drive.google.com/file
 - User-friendly interface for image upload.
 - Integration with Google Cloud Vision API for image analysis.
 - Integration with Real-time product search API from RapidAPI to fetch product data.
-- Display of similar products based on image analysis.
+- Display of similar products based on image analysis, with clickable links to the product shopping page.
 - Responsive and modern UI/UX design.
 - Error handling for failed image uploads and API errors.
 
