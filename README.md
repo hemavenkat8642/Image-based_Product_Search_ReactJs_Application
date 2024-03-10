@@ -52,7 +52,12 @@ Before running the application, ensure that the API keys for both Google Cloud V
 
 ## Demo
 
-A live demo of the application can be found [here](https://drive.google.com/file/d/1LEHAu19D8pKVHA96f95loDWfafHJfeBf/view?usp=sharing).
+A live demo of the application can be found [here](https://regal-nasturtium-2ce0cd.netlify.app/)
+
+
+## Video Walkthrough
+
+For a visual demonstration of the application in action, please watch the walkthrough video [here](https://drive.google.com/file/d/1LEHAu19D8pKVHA96f95loDWfafHJfeBf/view?usp=sharing).
 
 
 ## Features
