@@ -10,6 +10,7 @@ This is a single-page ReactJS application that allows users to search for produc
 - [Configuration](#configuration)
 - [Demo](#demo)
 - [Features](#features)
+- [Error Handling Scenarios](#error-handling)
 - [Technologies Used](#technologies-used)
 
 
