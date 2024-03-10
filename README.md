@@ -9,6 +9,7 @@ This is a single-page ReactJS application that allows users to search for produc
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Demo](#demo)
+- [Video Walkthrough](#video-walkthrough)
 - [Features](#features)
 - [Error Handling Scenarios](#error-handling)
 - [Technologies Used](#technologies-used)
