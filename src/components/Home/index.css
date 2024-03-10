@@ -1,0 +1,90 @@
+.main-container {
+  margin: 0px;
+  padding: 25px;
+  min-height: 100vh;
+  /* background-image: linear-gradient(
+    to bottom,
+    rgba(255, 0, 0, 0.471),
+    #4c669f84,
+    rgba(0, 0, 255, 0.54)
+  ); */
+  background-color: #334b8949;
+  color: black;
+}
+
+.assignment-by {
+  margin-bottom: 30px;
+  font-size: small;
+  color: rgba(0, 0, 0, 0.788);
+}
+
+.input-label {
+  font-size: larger;
+  font-weight: 500;
+  margin-bottom: 15px;
+  text-shadow: 3px 3px 4px white;
+}
+
+.input-tag {
+  padding: 12px;
+  font-size: small;
+  margin-bottom: 20px;
+}
+
+.error-message {
+  color: rgba(255, 0, 0, 1);
+  font-size: larger;
+  font-weight: 600;
+}
+
+.loading-container {
+  margin: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.loading-text {
+  margin: 0px;
+  margin-left: 10px;
+  font-size: small;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.products-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 0px;
+  padding: 0px;
+}
+
+.display-products-limit-btn {
+  margin-top: 20px;
+  border: 0px;
+  color: rgba(0, 58, 133, 0.684);
+  font-weight: bold;
+  background-color: transparent;
+  text-decoration: underline;
+  border: 0px;
+  outline: none;
+  cursor: pointer;
+  align-self: flex-end;
+}
+
+.products-list-title {
+  font-size: larger;
+  margin-top: 40px;
+  text-shadow: 3px 3px 4px white;
+}
